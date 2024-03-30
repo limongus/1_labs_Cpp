@@ -1,0 +1,10 @@
+^C:\USERS\MANYO\SOURCE\REPOS\16\CMAKEFILES\28749413E597C3CA401D7D2B5DA1F2FA\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/manyo/OneDrive/Документы/GitHub/sfml_sample -BC:/Users/manyo/source/repos/16 --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/manyo/source/repos/16/sfml_sample.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

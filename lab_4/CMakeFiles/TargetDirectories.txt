@@ -1,0 +1,3 @@
+C:/Users/manyo/source/repos/16/CMakeFiles/sfml_sample.dir
+C:/Users/manyo/source/repos/16/CMakeFiles/ALL_BUILD.dir
+C:/Users/manyo/source/repos/16/CMakeFiles/ZERO_CHECK.dir
