@@ -1,4 +1,0 @@
-﻿  lab_5.cpp
-C:\Users\manyo\source\repos\lab_5\lab_5.cpp(148): warning C4715: qC: значение возвращается не при всех путях выполнения
-C:\Users\manyo\source\repos\lab_5\lab_5.cpp(98): warning C4172: возвращение адреса локальной или временной переменной : temp
-  lab_5.vcxproj -> C:\Users\manyo\source\repos\lab_5\x64\Debug\lab_5.exe
