@@ -1,1 +1,6 @@
 ﻿  1>Checking Build System
+  CMake is re-running because C:/Users/manyo/source/repos/16/CMakeFiles/generate.stamp dependency file is missing.
+CUSTOMBUILD : CMake error : The source directory "C:/Users/manyo/OneDrive/╨Ф╨╛╨║╤Г╨╝╨╡╨╜╤В╤Л/GitHub/sfml_sample" does not appear to contain CMakeLists.txt.
+  Specify --help for usage, or press the help button on the CMake GUI.
+  Не удается найти указанную метку пакетного файла - VCEnd
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(232,5): error MSB8066: пользовательская сборка для "C:\Users\manyo\source\repos\16\CMakeFiles\28749413e597c3ca401d7d2b5da1f2fa\generate.stamp.rule" завершила работу с кодом 1.
